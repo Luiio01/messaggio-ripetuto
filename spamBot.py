@@ -4,9 +4,7 @@ import sys
 import time
 import win32api, win32com
 
-SpamText = ['Howdy Pigs! Long time no see!', 'Lancau nerds', 'Eat shit you fucking dogshit', 'Rot in hell idiot', 'BODO HITAM', 'kys', 
-'gi mampus', 'fucking nerd', 'bocah nakharam', 'babi' , 'pukimak' , 'lancau' , 'whore', 'son of a bitch' , 'asshat' , 'dajjal lover',
-'idiot shit', 'your life is worthless' , 'go drink bleach and die'] #spam phrases, these can be changed based on the user 
+SpamText = ['Howdy', 'Good morning'] #spam phrases, these can be changed based on the user 
 
 mposx = 0
 mposy = 0
